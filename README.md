@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679E2?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Fiddler-8CC4D7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Charles_Proxy-4C2C72?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snort-EF3E36?style=for-the-badge&logo=snort&logoColor=white" />
 </p>
 
 **Systems & Databases:**
