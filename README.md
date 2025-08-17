@@ -6,7 +6,7 @@
   
   <p>
     <a href="https://tryhackme.com/p/t00thLe55" target="_blank">
-<!--       <img src="https://tryhackme-badges.s3.amazonaws.com/t00thLe55.png" alt="TryHackMe"> -->
+      <img src="https://tryhackme-badges.s3.amazonaws.com/t00thLe55.png" alt="TryHackMe">
     </a>    
   </p>
   
